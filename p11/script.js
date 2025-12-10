@@ -1,3 +1,4 @@
 document.getElementById('myButton').addEventListener('click', function() {
-    alert('Привет от JavaScript!');
+    alert('42 всем нашим!');
 });
+
